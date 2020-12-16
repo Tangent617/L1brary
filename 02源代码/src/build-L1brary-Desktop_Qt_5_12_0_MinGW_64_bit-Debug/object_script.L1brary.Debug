@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/preorderbooks.o
+debug/selectoption.o
+debug/comfirmorder.o
+debug/bookmanagement.o
+debug/studentmanagement.o
+debug/moc_mainwindow.o
+debug/moc_preorderbooks.o
+debug/moc_selectoption.o
+debug/moc_comfirmorder.o
+debug/moc_bookmanagement.o
+debug/moc_studentmanagement.o

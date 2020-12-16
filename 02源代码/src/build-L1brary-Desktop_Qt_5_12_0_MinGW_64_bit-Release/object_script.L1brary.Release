@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/preorderbooks.o
+release/selectoption.o
+release/comfirmorder.o
+release/bookmanagement.o
+release/studentmanagement.o
+release/moc_mainwindow.o
+release/moc_preorderbooks.o
+release/moc_selectoption.o
+release/moc_comfirmorder.o
+release/moc_bookmanagement.o
+release/moc_studentmanagement.o
