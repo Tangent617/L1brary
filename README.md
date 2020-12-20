@@ -4,7 +4,7 @@
 
 ## 编译
 
-使用Qt打开[L1brary.pro](02源代码/src/L1brary/L1brary.pro)文件，保证其绝对路径为全英文。
+使用Qt打开[L1brary.pro](02源代码/L1brary/L1brary.pro)文件，保证其绝对路径为全英文。
 
 选择相关的kit。
 
